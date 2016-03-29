@@ -1,0 +1,51 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+h1{
+	text-align: center;
+}
+
+
+.container{
+	width:90%;
+	background-color:#F6F6F6;
+	background-position: right top;
+	background-repeat: no-repeat;
+	background-image: url("hinhnen.jpg");
+	border-style: dotted;
+	margin:0 auto;
+	background-size: 155px 155px;
+	min-height: 400px;
+}
+.col{width:20.5%;
+	margin:10px;
+	padding:10px;
+	float:left;
+}
+.colum4{
+	width: 96%;
+	background: linear-gradient(#ABA172,#FFF);
+	clear:left;
+}
+.colum1{
+	border-style: solid dotted;
+	background-image: url("hinhnen2.jpg");
+}
+.colum2{
+	background-color:#8237C8;
+	border-radius:10px;
+	box-shadow: 3px 3px 4px  #3596B9 ;
+	
+}
+.colum2 p{
+	min-height: 50px;
+	border:1px solid;
+	margin:10px;
+
+
+}
+.colum3{
+background-color:rgba(0,0,0,.3);
+}

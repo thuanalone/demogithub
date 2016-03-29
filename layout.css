@@ -1,0 +1,41 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	width:90%;
+}
+.container{
+	width:900px;
+	border-style:solid;
+	margin:0 auto;
+	min-height: 400px;
+}
+h1{text-align: center;}
+.header1{
+	text-align: center;
+	background-color:pink;
+	width: 900px;
+	min-height: 50px;
+
+}
+.header2{
+	text-align: center;
+	width:900px;
+	min-height: 100px;
+	background-color: #5158d6;
+	margin-top:10px;
+}
+.col{
+	float:left;
+	width:280px;
+	margin:10px;
+	min-height: 100px;
+	background-color: #3cc4c2;
+}
+.col4{
+	clear:left;
+	text-align: center;
+	background-color: #67e09f;
+	min-height: 150px;
+}
